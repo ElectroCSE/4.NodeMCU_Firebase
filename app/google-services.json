@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706933634640",
+    "firebase_url": "https://nodemcu-b8ced.firebaseio.com",
+    "project_id": "nodemcu-b8ced",
+    "storage_bucket": "nodemcu-b8ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706933634640:android:545fb0a016fc3368944355",
+        "android_client_info": {
+          "package_name": "com.example.node_mcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706933634640-8cm74jagq3miujf9sta0ge9mej2tun9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDxF7H1TKOx1wu6WOql7GEblzYjMdrYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706933634640-8cm74jagq3miujf9sta0ge9mej2tun9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
